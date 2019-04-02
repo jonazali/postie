@@ -1,6 +1,7 @@
 .home {
   position: relative;
   display: flex;
+  flex-wrap: warp;
   justify-content: center;
   margin-top: 5rem;
 }
